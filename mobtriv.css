@@ -1,0 +1,17 @@
+body{background-image:url("grad.png");background-repeat:repeat-x;background-attachment:fixed;background-color:222222;font-family:Century Gothic;color:FFFFFF;margin:0px;padding:0px;font-size:24pt}
+
+a{font-family:Century Gothic;color:CCCCCC;margin:0px;padding:0px;font-size:24pt}
+
+.stillin{background-color:00FF00;font-family:Century Gothic;color:222222;margin:0px;padding:0px;font-size:40pt;text-align:center;}
+
+.out{background-color:FF0000;font-family:Century Gothic;color:FFFFFF;margin:0px;padding:0px;font-size:40pt}
+
+div{text-align:center; width:100%}
+
+.radio{width:40px}
+
+input.text{background-color:222222;font-family:Century Gothic;color:FFFFFF;margin:0px;padding:0px;font-size:24pt;}
+
+#txt{background-color:222222;border:0px;text-align:center;font-family:Century Gothic;color:FFFFFF;margin:0px;padding:0px;font-size:60pt;}
+
+input.submit{background-color:222222;font-family:Century Gothic;color:FFFFFF;margin:0px;padding:3px 0;border-width:0;cursor:pointer;width:100px;font-size:24pt;}
